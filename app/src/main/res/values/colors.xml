@@ -1,0 +1,11 @@
+<resources>
+    <!-- Warna utama aplikasi -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Warna untuk status bar -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- Warna aksen aplikasi -->
+    <color name="colorAccent">#FF4081</color>
+</resources>
+
